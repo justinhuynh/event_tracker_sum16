@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'pry'
 
 get '/events' do
   # index
