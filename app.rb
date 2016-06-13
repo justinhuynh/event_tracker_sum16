@@ -24,10 +24,6 @@ patch '/events/:id' do
   # update (change)
 end
 
-put '/events/:id' do
-  # update (overwrite)
-end
-
 delete '/events/:id' do
   # destroy
 end
